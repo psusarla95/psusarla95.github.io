@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 title: [Praneeth Susarla]
 description: [Personal Website]
+baseurl: "/resume"
+url: "localhost:4000"
